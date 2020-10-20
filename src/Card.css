@@ -1,0 +1,11 @@
+
+.caseCard{
+    border: 2px solid cyan;
+    width: 20rem;
+    background-image: linear-gradient(red,yellow,blue);
+    text-align: center;
+
+}
+.caseCard h4{
+    color:rgba(0,0,0,0.5)
+}
